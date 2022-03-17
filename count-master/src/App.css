@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.counter {
+  background-color: bisque;
+  border: 2px solid brown;
+  border-radius: 50px;
+  margin: 30px 550px;
+  padding: 40px;
+}
+
+.increaseBtn {
+  margin: 20px;
+  background-image: linear-gradient(orange, red);
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid red;
+  color: aliceblue;
+}
+
+.decreaseBtn {
+  margin: 20px;
+  background-image: linear-gradient(orange, red);
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid red;
+  color: aliceblue;
+}
