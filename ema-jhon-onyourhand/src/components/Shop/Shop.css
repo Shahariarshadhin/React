@@ -7,3 +7,6 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 40px;
 }
+.cart-container {
+  background-color: rgb(211, 187, 152);
+}
